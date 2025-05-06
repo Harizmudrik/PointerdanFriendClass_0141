@@ -19,8 +19,13 @@ class PersegiPanjang
             return a*b;
             
         }
-}
+        //Lingkaran ol;
+};
 
+class Lingkaran
+{
+    
+}
 
 int main (){
 
