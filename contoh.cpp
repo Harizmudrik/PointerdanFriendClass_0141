@@ -39,6 +39,8 @@ class Lingkaran
         }      
 };
 
-int main (){
+int main ()
+{
+    PersegiPanjang objectPP; //Membuat fungsi
 
 }
